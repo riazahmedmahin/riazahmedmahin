@@ -1,6 +1,6 @@
 ### Riaz Ahmed Mahin 👋
 
-💻 I'm a Student & Competitive Programmer.
+ I'm a Student :mortar_board: & Competitive Programmer 💻
 
 ## About
 
@@ -8,9 +8,8 @@
 * Muslim :relaxed:
 * Studying at IIUC :mortar_board:
 * Love Coding :computer: & photography :camera_flash:
-* Trying to learn Python & Java ME
+* Trying to learn Python :snake: & Java ME :iphone:
 * Aim : Become a Software Engineer :mortar_board:
 
-## get in touch 
-http://github.com - automatic!
-[GitHub](http://github.com)
+## Get in touch 
+@https://riazahmedmahin.wordpress.com
