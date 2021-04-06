@@ -7,3 +7,6 @@
 .😪 Love Coding nd photography
 .🐍 Trying to learn Python & Java ME
 .🤐 Aim : Become a Software Engineer
+
+## About
+jgv
