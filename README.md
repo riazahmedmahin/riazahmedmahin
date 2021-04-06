@@ -11,5 +11,5 @@
 .🐍 Trying to learn Python & Java ME
 :mortar_board: Aim : Become a Software Engineer
 
-
-jgv
+* Item 1
+* Item 2
