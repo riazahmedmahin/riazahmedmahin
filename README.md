@@ -4,12 +4,16 @@
 
 ## About
 
-*🇧🇩 Resident of Bangladesh
-*😇 Muslim
-*😐 Studying at IIUC 
-.😪 Love Coding nd photography
-.🐍 Trying to learn Python & Java ME
-:mortar_board: Aim : Become a Software Engineer
+*
+*😇 
+*😐 
+.😪 
+.🐍 
 
-* Item 1
-* Item 2
+
+* 🇧🇩 Resident of Bangladesh
+* Muslim
+* Love Coding nd photography
+* Studying at IIUC 
+* Trying to learn Python & Java ME
+* :mortar_board: Aim : Become a Software Engineer
