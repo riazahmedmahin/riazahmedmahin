@@ -8,7 +8,7 @@
 * Muslim :relaxed:
 * Studying at IIUC :mortar_board:
 * Love Coding :computer: & photography :camera_flash:
-* Trying to learn Python :snake: & Java ME :iphone:
+* Trying to learn Advance lavel Python :snake: & Java SE :iphone:
 * Aim : Become a Software Engineer :mortar_board:
 
 ## Get in touch 
