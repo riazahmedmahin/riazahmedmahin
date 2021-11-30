@@ -1,5 +1,5 @@
 
-# Hi there 👋 Riaz Ahmed Mahin
+# Hi 👋 Riaz Ahmed Mahin
 ####  I'm a Student :mortar_board: & Competitive Programmer 💻
 
 
@@ -18,7 +18,7 @@ I am a student of Computer Science And Engineering. Right now I’m studying B. 
 
 ✔ OpenCV
 
-- 🌱 I’m currently learning Trying to learn Advance lavel Python :snake: & Java SE :iphone: 
+- 🌱 I’m currently learning Trying to learn cyber security  ⚔ & Java SE :iphone: 
 - 💬 Ask me about Programming , Web developer ,Wordpress 
 
 
