@@ -1,4 +1,4 @@
-# Hi there 👋 Riaz Ahmed Mahin
+# Hi 👋 I'm Riaz Ahmed Mahin
 ####  I'm a Student :mortar_board: & Competitive Programmer 💻
 
 
