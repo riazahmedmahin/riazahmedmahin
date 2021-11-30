@@ -32,8 +32,11 @@ I am a student of Computer Science And Engineering. Right now I’m studying B. 
 <a href="https://www.hackerrank.com/riazahmedmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="riazahmedmahin" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/riazahmedmahin" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="riazahmedmahin" height="30" width="40" /></a>
 </p>  
+## Github Bandage
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+## Github Achivement
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riazahmedmahin)](https://github.com/ryo-ma/github-profile-trophy)
 
