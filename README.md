@@ -12,8 +12,15 @@ I am a student of Computer Science And Engineering. Right now I’m studying B. 
 
 
 
-- 🌱 I’m currently learning Trying to learn cyber security  ⚔ & Java SE :iphone: 
-- 💬 Ask me about Programming , Web developer ,Wordpress 
+- 🔭 I’m currently working on **Desktop Application**
+
+- 🌱 I’m currently learning **Cyber Security ⚔ & Java SE 📱**
+
+- 💬 Ask me about **Programming Language, Web design & development**
+
+- 📫 How to reach me **riazahmedmahin@gmail.com**
+
+- ⚡ Fun fact **crazy**
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/riazahmedmahin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/riaz-ahmed-mahin-5220951a5/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/riazahmedmahin1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/riaz_Ahmed_Mahin//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/RiazAhmedMahiin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://riazahmedmahin.wordpress.com/)  
