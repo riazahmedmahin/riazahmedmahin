@@ -35,6 +35,8 @@ I am a student of Computer Science And Engineering. Right now I’m studying B. 
 
 ## Github Bandage
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=riazahmedmahin&label=Profile%20views&color=0e75b6&style=flat" alt="riazahmedmahin" /> </p>
+
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
 ## Github Achivement
