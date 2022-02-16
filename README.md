@@ -18,7 +18,7 @@ I am a student of Computer Science And Engineering. Right now I’m studying B. 
 
 - 🌱 I’m currently learning **Cyber Security ⚔ & .NET 📱**
 
-- 💬 Ask me about **Programming Language, Desktopm & Web development**
+- 💬 Ask me about **Programming Language, Desktop & Web development**
 
 - 📫 How to reach me **riazahmedmahin@gmail.com**
 
