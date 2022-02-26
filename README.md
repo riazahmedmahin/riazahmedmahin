@@ -5,7 +5,7 @@
 
 I am a student of Computer Science And Engineering. Right now I’m studying B. sc in Computer Science and Engineering at International Islamic University Chittagong(IIUC). After my graduation, I would like to do something that will create my own figure in software development society of Bangladesh. My hobbies are traveling, Computer gaming, playing football. Though I am a student of computer science and engineering but I have a great interest in travelling and photography and specially robotics and photography is my best hobby. Professional experience in Competitive Programming, Web Development ,Web Design and Computer programming Language. Tried to work hard throughout my career. Till now in my student career these are the small achievements, dreams and interest I have written above. Thankyou All .Thanks for your time.
 
-🎓Became a Software Engineer🎓
+##🎓Became a Software Engineer🎓
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -16,7 +16,7 @@ I am a student of Computer Science And Engineering. Right now I’m studying B. 
 
 - 🔭 I’m currently working on **Desktop Application**
 
-- 🌱 I’m currently learning **Cyber Security ⚔ & .NET 📱**
+- 🌱 I’m currently learning **Cyber Security ⚔ & ASP.NET 📱**
 
 - 💬 Ask me about **Programming Language, Desktop & Web development**
 
