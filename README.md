@@ -1,6 +1,6 @@
 
 # Hi 👋 Riaz Ahmed Mahin
-####  I'm a Student :mortar_board: & Machine Learner 💻
+####  I'm a App Developer :mortar_board: & Machine Learner 💻
 
 
 I am a student of Computer Science And Engineering at International Islamic University Chittagong(IIUC).I would like to do something that will create my own figure in software development society.Professional experience in Machine learning & Data science Competitive Programming, Web Development & Design. Tried to work hard throughout my career.
