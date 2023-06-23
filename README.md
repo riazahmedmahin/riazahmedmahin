@@ -3,7 +3,7 @@
 ####  I'm a App Developer :mortar_board: & Machine Learner 💻
 
 
-I am a student of Computer Science And Engineering at International Islamic University Chittagong(IIUC).I would like to do something that will create my own figure in software development society.Professional experience in Machine learning AI & Data science, Competitive Programming, App and Web Development & Design. Tried to work hard throughout my career.Thanks for your time........
+I am a student of Computer Science And Engineering at International Islamic University Chittagong(IIUC).I would like to do something that will create my own figure in software development society.Professional experience in App Development Andriod and ios both, Machine learning AI & Data science and Web Development & Design. Tried to work hard throughout my career.Thanks for your time........
 
 #### Became a Software Engineer🎓
 
