@@ -42,7 +42,8 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riazahmedmahin)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=riazahmedmahin)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=riazahmedmahin&show_icons=true&count_private=true)  
 
