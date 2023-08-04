@@ -57,6 +57,6 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=riazahmedmahin&theme=dark&hide_border=false)<br/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=riazahmedmahin)  
+
 
 ![Profile views](https://gpvc.arturio.dev/riazahmedmahin)  
