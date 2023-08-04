@@ -42,7 +42,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=riazahmedmahin)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achivement
 ![](https://github-profile-trophy.vercel.app/?username=riazahmedmahin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
