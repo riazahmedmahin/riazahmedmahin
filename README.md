@@ -38,9 +38,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-## Github Achivement
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=riazahmedmahin)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🏆 GitHub Achivement
 ![](https://github-profile-trophy.vercel.app/?username=riazahmedmahin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
@@ -57,6 +55,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riazahmedmahin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
 
 
+![](https://github-readme-streak-stats.herokuapp.com/?user=riazahmedmahin&theme=dark&hide_border=false)<br/>
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=riazahmedmahin)  
 
