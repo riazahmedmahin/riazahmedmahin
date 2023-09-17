@@ -59,4 +59,4 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 [![](https://visitcount.itsvg.in/api?id=riazahmedmahin&icon=5&color=1)](https://visitcount.itsvg.in)
 
-![Profile views](https://gpvc.arturio.dev/riazahmedmahin)  
+
