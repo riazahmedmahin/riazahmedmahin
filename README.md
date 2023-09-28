@@ -46,7 +46,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 ![](https://github-readme-stats.vercel.app/api?username=riazahmedmahin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=riazahmedmahin)  
+
 
 ![GitHub metrics](https://metrics.lecoq.io/riazahmedmahin)  
 
