@@ -14,7 +14,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 - 🔭 I’m currently working on **Apps Development , Machine Learning & Data science**
 
-- 🌱 I’m currently learning **ML ⚔ & Flutter 📱**
+- 🌱 I’m currently learning **ML ⚔ **
 
 - 💬 Ask me about **Programming Language, web & App , ML & Data science**
 
