@@ -14,8 +14,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 - 🔭 I’m currently working on **Apps Development , Machine Learning & Data science**
 
-- 🌱 I’m currently learning **ML ⚔ **
-
+- 🌱 I’m currently learning ML ⚔ 
 - 💬 Ask me about **Programming Language, web & App , ML & Data science**
 
 - 📫 How to reach me **riazahmedmahin@gmail.com**
