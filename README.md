@@ -48,8 +48,6 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 
 
 
-![GitHub metrics](https://metrics.lecoq.io/riazahmedmahin)  
-
 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=riazahmedmahin&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
