@@ -43,7 +43,7 @@ I am a student of Computer Science And Engineering at International Islamic Univ
 ![](https://github-profile-trophy.vercel.app/?username=riazahmedmahin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-![](https://github-readme-stats.vercel.app/api?username=riazahmedmahin&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
 
 
 
