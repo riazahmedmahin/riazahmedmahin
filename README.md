@@ -3,7 +3,7 @@
 ####  I'm a App Developer :mortar_board: & Machine Learner 💻
 
 
-I am a junior software engineer. To excel as a Junior Software Engineer by leveraging my knowledge, skills, analytical thinking, and communication abilities to contribute to software development projects, fostering personal growth and supporting the economic advancement of the organization.I would like to do something that will create my own figure in software development society.Professional experience in App Development (Andriod and ios) both, Machine learning AI & Data science. Tried to work hard throughout my career.
+I am a software engineer. To excel as a Junior Software Engineer by leveraging my knowledge, skills, analytical thinking, and communication abilities to contribute to software development projects, fostering personal growth and supporting the economic advancement of the organization.I would like to do something that will create my own figure in software development society.Professional experience in App Development (Andriod and ios) both, Machine learning AI & Data science. Tried to work hard throughout my career.
 
 #### Software Engineer🎓
 
